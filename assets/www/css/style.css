@@ -1,0 +1,45 @@
+.navbar {
+background: #51C057;
+color:#ffffff;
+}
+.page{
+background: #E0E0E0;
+}
+#timer-7{
+  margin-top:10px;
+  margin-left:20px;
+  margin-bottom:-20px;
+}
+*{
+  -webkit-box-sizing: border-box;
+}
+.list-block ul{
+  background:rgba(255,255,255,0.1);
+}
+.kota{
+  font-size:20px;
+  font-weight:bold;
+  margin-top:5px;
+}
+.remain{
+  margin-left:0px;
+}
+.itoolbar{
+  font-size:25px;
+}
+.badge {
+font-size: 10px;
+position: fixed;
+margin-left: -10px;
+}
+.tabbar a.active {
+color: #4DB156;
+}
+.tabbar{
+  background: rgba(255,255,255,0.14);
+}
+#map_canvas {
+  position: fixed;
+  width: 80%;
+  height: 400px;
+}
